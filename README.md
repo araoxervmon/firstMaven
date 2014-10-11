@@ -1,0 +1,4 @@
+firstMaven
+==========
+
+Maven project
